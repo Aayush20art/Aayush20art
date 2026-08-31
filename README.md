@@ -1,119 +1,130 @@
 <div align="center">
 
-<!-- Animated wave banner — acts as the "background" hero for the profile -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c6ff&height=260&section=header&text=Aayush%20Sharma&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20Engineer%20%7C%20Building%20Intelligent%20Systems&descAlignY=58&descSize=20" width="100%"/>
+<!-- Animated gradient hero banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:00d4ff&height=280&section=header&text=AAYUSH%20SHARMA&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%2F%20ML%20ENGINEER%20%E2%80%94%20TURNING%20DATA%20INTO%20INTELLIGENCE&descAlignY=52&descSize=17&descColor=8be9fd" width="100%"/>
 
-<!-- Typing animation tagline -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00C6FF&center=true&vCenter=true&width=600&lines=Turning+Data+into+Decisions+%F0%9F%A7%A0;Building+with+LangChain+%2B+LangGraph+%E2%9A%A1;GenAI+%7C+ML+%7C+Data+Science;Always+Shipping+%2C+Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=23&duration=2800&pause=900&color=8BE9FD&center=true&vCenter=true&width=650&lines=Building+GenAI+%26+LLM-Powered+Systems+%F0%9F%A4%96;LangChain+%2B+LangGraph+%2B+RAG+%E2%9A%A1;From+Raw+Data+to+Real+Decisions+%F0%9F%93%88;Currently%3A+AI%2FML+Backend+Dev+%40+Ambrosial+%F0%9F%9A%80" alt="Typing SVG"/>
 </a>
 
-<br><br>
+<br>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Aayush20art&label=PROFILE+VIEWS&color=00c6ff&style=flat-square" alt="profile views" height="28"/>
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/github/followers/Aayush20art?label=FOLLOWERS&style=flat-square&color=2c5364&labelColor=1c1c1c" alt="followers" height="28"/>
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/github/stars/Aayush20art?label=STARS&style=flat-square&color=0f2027&labelColor=1c1c1c" alt="stars" height="28"/>
+  <img src="https://komarev.com/ghpvc/?username=Aayush20art&label=PROFILE+VIEWS&color=8B5CF6&style=flat-square&labelColor=1a1a2e" height="26"/>
+  &nbsp;
+  <img src="https://img.shields.io/github/followers/Aayush20art?label=FOLLOWERS&style=flat-square&color=00d4ff&labelColor=1a1a2e" height="26"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-39FF14?style=flat-square&labelColor=1a1a2e" height="26"/>
 </p>
 
 </div>
 
-<br>
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=2&section=header"/>
 
-## 🧠 About Me
+<table align="center">
+<tr>
+<td valign="top" width="55%">
 
-- 🎓 A **B.Tech IT** student, graduated **2026** — SGPA **8.4**
-- 💼 **Graduate Trainee** at **Ambrosial** (UK-based nutritional supplements company), working on digital transformation & cloud migration
-- 🔭 Currently building **GenAI & LLM-powered applications** (LangChain / LangGraph pipelines)
-- 🌱 Deep-diving into **Advanced RAG architectures** and multi-agent systems
-- 👯 Open to collaborating on **AI/ML, GenAI & Data Science** projects
-- 🤝 Looking for guidance on **deploying ML/GenAI projects to production**
-- 💬 Ask me about **Python, Machine Learning, LangChain/LangGraph, RAG, Streamlit**
-- 📄 Certified in **IBM Data Analysis with Python** & **Infosys Springboard AI**
-- 📫 Reach me at **aayushgamer702@gmail.com**
+### 🧬 About Me
 
-<br>
+```yaml
+role: AI/ML Backend Developer @ Ambrosial Nutrifood
+education: B.Tech IT, Class of 2026 (SGPA: 8.2)
+focus: LLM Apps · RAG Pipelines · Multi-Agent Systems
+currently_learning: Advanced RAG Architectures
+looking_to_collaborate: GenAI & LLM-powered applications
+looking_for_help: Deploying ML/GenAI to production
+fun_fact: "I debug code faster than I debug my own life 😄"
+```
 
-## ⚙️ Tech Stack
+📄 Certified — **IBM Data Analysis with Python** · **Infosys Springboard AI**
+📫 **aayushgamer702@gmail.com**
+
+</td>
+<td valign="top" width="45%">
+
+### ⚡ Featured Build
+
+<div align="center">
+<a href="https://college-assistant-ei4i2rzqjfkdbyrodzftp8.streamlit.app/">
+<img src="https://img.shields.io/badge/🎓_College_Assistant_Chatbot-Live_Demo-8B5CF6?style=for-the-badge&labelColor=1a1a2e"/>
+</a>
+<br><br>
+<sub>An AI assistant built end-to-end — live and deployed, not just a repo.</sub>
+</div>
+
+</td>
+</tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=2&section=header"/>
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn,fastapi,postgres,mysql,git,figma,html,css,tailwind&theme=dark" />
+### 🛠️ Tech Arsenal
+
+<img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn,fastapi,postgres,mysql,git,figma,html,css,tailwind&theme=dark&perline=11"/>
 
 <br><br>
 
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-0f2027?style=for-the-badge&logo=graphql&logoColor=00c6ff)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Groq](https://img.shields.io/badge/Groq_LLaMA-2c5364?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Mistral AI](https://img.shields.io/badge/Mistral_AI-000000?style=for-the-badge&logo=mistralai&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![FAISS](https://img.shields.io/badge/FAISS-00c6ff?style=for-the-badge&logo=meta&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-2c5364?style=for-the-badge&logo=xgboost&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Zoho](https://img.shields.io/badge/Zoho_Stack-C8202F?style=for-the-badge&logo=zoho&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1a1a2e?style=for-the-badge&logo=langchain&logoColor=8BE9FD)
+![LangGraph](https://img.shields.io/badge/LangGraph-1a1a2e?style=for-the-badge&logo=graphql&logoColor=8B5CF6)
+![Streamlit](https://img.shields.io/badge/Streamlit-1a1a2e?style=for-the-badge&logo=streamlit&logoColor=FF4B4B)
+![Groq](https://img.shields.io/badge/Groq_LLaMA-1a1a2e?style=for-the-badge&logo=amazonaws&logoColor=00d4ff)
+![Mistral](https://img.shields.io/badge/Mistral_AI-1a1a2e?style=for-the-badge&logo=mistralai&logoColor=FF7000)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-1a1a2e?style=for-the-badge&logo=huggingface&logoColor=FFD21E)
+![FAISS](https://img.shields.io/badge/FAISS-1a1a2e?style=for-the-badge&logo=meta&logoColor=00d4ff)
+![XGBoost](https://img.shields.io/badge/XGBoost-1a1a2e?style=for-the-badge&logo=xgboost&logoColor=8B5CF6)
+![PowerBI](https://img.shields.io/badge/Power_BI-1a1a2e?style=for-the-badge&logo=powerbi&logoColor=F2C811)
+![Zoho](https://img.shields.io/badge/Zoho_Stack-1a1a2e?style=for-the-badge&logo=zoho&logoColor=C8202F)
 
 </div>
 
-<br>
-
-## 🚀 Featured Project
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=2&section=header"/>
 
 <div align="center">
 
-<a href="https://college-assistant-ei4i2rzqjfkdbyrodzftp8.streamlit.app/">
-  <img src="https://img.shields.io/badge/🎓_College_Assistant_Chatbot-Live_Demo-00c6ff?style=for-the-badge" />
-</a>
+### 📊 GitHub Analytics
+
+<img src="https://github-readme-stats.vercel.app/api?username=Aayush20art&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d0d1a&title_color=8B5CF6&icon_color=00d4ff&text_color=c9d1d9&ring_color=8B5CF6" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aayush20art&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d0d1a&title_color=8B5CF6&text_color=c9d1d9" width="41%"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Aayush20art&theme=dark&hide_border=true&background=0D0D1A&ring=8B5CF6&fire=00d4ff&currStreakLabel=00d4ff&sideLabels=c9d1d9&dates=c9d1d9" width="70%"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Aayush20art&theme=algolia&no-frame=true&no-bg=true&row=1&column=6" width="90%"/>
 
 </div>
 
-<br>
-
-## 📊 GitHub Stats
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=2&section=header"/>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Aayush20art&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00c6ff&icon_color=00c6ff&text_color=c9d1d9" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aayush20art&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00c6ff&text_color=c9d1d9" width="41%"/>
+### 🐍 Contribution Graph
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Aayush20art&theme=tokyonight&hide_border=true&background=0d1117&ring=00c6ff&fire=00c6ff&currStreakLabel=00c6ff" width="70%"/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Aayush20art&theme=algolia&no-frame=true&row=1&column=6" width="90%"/>
+<img src="https://raw.githubusercontent.com/Aayush20art/Aayush20art/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
 </div>
 
-<br>
-
-## 🐍 Contribution Graph
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=2&section=header"/>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Aayush20art/Aayush20art/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-</div>
 
-<sub>ℹ️ The snake animation above needs a one-time GitHub Action to generate — see setup note at the bottom.</sub>
-
-<br>
-
-## 🌐 Connect With Me
-
-<div align="center">
+### 🌐 Let's Connect
 
 <a href="https://linkedin.com/in/aayush-sharma-b108a93b0" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-1a1a2e?style=for-the-badge&logo=linkedin&logoColor=0077B5"/>
 </a>
 <a href="mailto:aayushgamer702@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gmail-1a1a2e?style=for-the-badge&logo=gmail&logoColor=D14836"/>
 </a>
 <a href="https://github.com/Aayush20art" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-1a1a2e?style=for-the-badge&logo=github&logoColor=ffffff"/>
 </a>
 
+<br><br>
+
+<i>"I debug code faster than I debug my own life 😄"</i>
+
 </div>
 
-<br>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,50:2c5364,100:0f2027&height=120&section=footer"/>
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:302b63,100:0f0c29&height=150&section=footer"/>
