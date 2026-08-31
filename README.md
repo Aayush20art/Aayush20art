@@ -8,8 +8,15 @@
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00C6FF&center=true&vCenter=true&width=600&lines=Turning+Data+into+Decisions+%F0%9F%A7%A0;Building+with+LangChain+%2B+LangGraph+%E2%9A%A1;GenAI+%7C+ML+%7C+Data+Science;Always+Shipping+%2C+Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=Aayush20art&label=Profile%20Views&color=00c6ff&style=for-the-badge" alt="profile views"/>
-<img src="https://img.shields.io/github/followers/Aayush20art?label=Followers&style=for-the-badge&color=2c5364" alt="followers"/>
+<br><br>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Aayush20art&label=PROFILE+VIEWS&color=00c6ff&style=flat-square" alt="profile views" height="28"/>
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/github/followers/Aayush20art?label=FOLLOWERS&style=flat-square&color=2c5364&labelColor=1c1c1c" alt="followers" height="28"/>
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/github/stars/Aayush20art?label=STARS&style=flat-square&color=0f2027&labelColor=1c1c1c" alt="stars" height="28"/>
+</p>
 
 </div>
 
