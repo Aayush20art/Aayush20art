@@ -37,7 +37,7 @@ looking_for_help: Deploying ML/GenAI to production
 fun_fact: "I debug code faster than I debug my own life 😄"
 ```
 
-📄 Certified — **IBM Data Analysis with Python** · **Infosys Springboard AI**
+📄 Certified — **IBM Data Analysis with Python** · **Infosys Springboard**
 📫 **aayushgamer702@gmail.com**
 
 </td>
