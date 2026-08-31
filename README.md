@@ -24,8 +24,8 @@
 
 ## 🧠 About Me
 
-- 🎓 Final-year **B.Tech IT** student, graduating **2026** — SGPA **8.2**
-- 💼 **Graduate Trainee — AI/ML Backend Developer** at **Ambrosial Nutrifood** (UK-based nutritional supplements company), working on digital transformation & cloud migration
+- 🎓 A **B.Tech IT** student, graduated **2026** — SGPA **8.4**
+- 💼 **Graduate Trainee** at **Ambrosial** (UK-based nutritional supplements company), working on digital transformation & cloud migration
 - 🔭 Currently building **GenAI & LLM-powered applications** (LangChain / LangGraph pipelines)
 - 🌱 Deep-diving into **Advanced RAG architectures** and multi-agent systems
 - 👯 Open to collaborating on **AI/ML, GenAI & Data Science** projects
