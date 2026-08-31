@@ -1,65 +1,112 @@
-<h1 align="center">Hi 👋, I'm Aayush Sharma</h1>
-<h3 align="center">A passionate AI/ ML Engineer that works on real world problems.</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aayush20art&label=Profile%20views&color=0e75b6&style=flat" alt="aayush20art" /> </p>
+<!-- Animated wave banner — acts as the "background" hero for the profile -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c6ff&height=260&section=header&text=Aayush%20Sharma&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20Engineer%20%7C%20Building%20Intelligent%20Systems&descAlignY=58&descSize=20" width="100%"/>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aayush20art" alt="aayush20art" /></a> </p>
+<!-- Typing animation tagline -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00C6FF&center=true&vCenter=true&width=600&lines=Turning+Data+into+Decisions+%F0%9F%A7%A0;Building+with+LangChain+%2B+LangGraph+%E2%9A%A1;GenAI+%7C+ML+%7C+Data+Science;Always+Shipping+%2C+Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
 
-- 🔭 I’m currently working on [College Assistant](https://college-assistant-ei4i2rzqjfkdbyrodzftp8.streamlit.app/)
+<img src="https://komarev.com/ghpvc/?username=Aayush20art&label=Profile%20Views&color=00c6ff&style=for-the-badge" alt="profile views"/>
+<img src="https://img.shields.io/github/followers/Aayush20art?label=Followers&style=for-the-badge&color=2c5364" alt="followers"/>
 
-- 🌱 I’m currently learning **Advanced RAG architectures & LangGraph**
+</div>
 
-- 👯 I’m looking to collaborate on **GenAI & LLM-powered applications (LangChain/LangGraph)**
+<br>
 
-- 🤝 I’m looking for help with **deploying ML/GenAI projects to production**
+## 🧠 About Me
 
-- 👨‍💻 All of my projects are available at [https://github.com/Aayush20art](https://github.com/Aayush20art)
+- 🎓 Final-year **B.Tech IT** student, graduating **2026** — SGPA **8.2**
+- 💼 **Graduate Trainee — AI/ML Backend Developer** at **Ambrosial Nutrifood** (UK-based nutritional supplements company), working on digital transformation & cloud migration
+- 🔭 Currently building **GenAI & LLM-powered applications** (LangChain / LangGraph pipelines)
+- 🌱 Deep-diving into **Advanced RAG architectures** and multi-agent systems
+- 👯 Open to collaborating on **AI/ML, GenAI & Data Science** projects
+- 🤝 Looking for guidance on **deploying ML/GenAI projects to production**
+- 💬 Ask me about **Python, Machine Learning, LangChain/LangGraph, RAG, Streamlit**
+- 📄 Certified in **IBM Data Analysis with Python** & **Infosys Springboard AI**
+- 📫 Reach me at **aayushgamer702@gmail.com**
 
-- 💬 Ask me about **Python, Machine Learning, Deep Learning, LangChain/LangGraph, Streamlit**
+<br>
 
-- 📫 How to reach me **aayushgamer702@gmail.com**
+## ⚙️ Tech Stack
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1N9FAqfaAxBogWh7TFeqByLVvD82Z9dNM/view?usp=sharing](https://drive.google.com/file/d/1N9FAqfaAxBogWh7TFeqByLVvD82Z9dNM/view?usp=sharing)
+<div align="center">
 
-- ⚡ Fun fact **I can debug your code faster than I can debug my own life 😄**
+<img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn,fastapi,postgres,mysql,git,figma,html,css,tailwind&theme=dark" />
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/aayush sharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aayush sharma" height="30" width="40" /></a>
-<a href="https://kaggle.com/aayush" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="aayush" height="30" width="40" /></a>
-<a href="https://instagram.com/aau_shhh01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aau_shhh01" height="30" width="40" /></a>
-</p>
+<br><br>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-0f2027?style=for-the-badge&logo=graphql&logoColor=00c6ff)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq_LLaMA-2c5364?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Mistral AI](https://img.shields.io/badge/Mistral_AI-000000?style=for-the-badge&logo=mistralai&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![FAISS](https://img.shields.io/badge/FAISS-00c6ff?style=for-the-badge&logo=meta&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-2c5364?style=for-the-badge&logo=xgboost&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Zoho](https://img.shields.io/badge/Zoho_Stack-C8202F?style=for-the-badge&logo=zoho&logoColor=white)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aayush20art&show_icons=true&locale=en&layout=compact" alt="aayush20art" /></p>
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aayush20art&show_icons=true&locale=en" alt="aayush20art" /></p>
+<br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aayush20art&" alt="aayush20art" /></p>
+## 🚀 Featured Project
 
-Support 🙏
-Are you using the tool and happy with it to create your GitHub Profile?
-Your kind support keeps open-source tools like this free for others.
-tweet github profile readme generator
-Let the world know how you feel using this tool. Share with others on twitter.
-Tip💰
-Buy ko-fi for rahuldkjainBuy me a ko-fi
-Donate rahuldkjain via paypal
-Buy rahuldkjain A CoffeeBuy me a coffee
-github profile markdown generator logo
-GitHub Profile README Generator
-Pages
-Addons
-Support
-About
-More
-Github
-Releases
-Issues
-Pull Requests
-Join Community
-Discord of the community
-Developed in India 🇮🇳
-Buy Me a Coffee
+<div align="center">
+
+<a href="https://college-assistant-ei4i2rzqjfkdbyrodzftp8.streamlit.app/">
+  <img src="https://img.shields.io/badge/🎓_College_Assistant_Chatbot-Live_Demo-00c6ff?style=for-the-badge" />
+</a>
+
+</div>
+
+<br>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Aayush20art&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00c6ff&icon_color=00c6ff&text_color=c9d1d9" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aayush20art&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00c6ff&text_color=c9d1d9" width="41%"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Aayush20art&theme=tokyonight&hide_border=true&background=0d1117&ring=00c6ff&fire=00c6ff&currStreakLabel=00c6ff" width="70%"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Aayush20art&theme=algolia&no-frame=true&row=1&column=6" width="90%"/>
+
+</div>
+
+<br>
+
+## 🐍 Contribution Graph
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Aayush20art/Aayush20art/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+</div>
+
+<sub>ℹ️ The snake animation above needs a one-time GitHub Action to generate — see setup note at the bottom.</sub>
+
+<br>
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://linkedin.com/in/aayush-sharma-b108a93b0" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:aayushgamer702@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://github.com/Aayush20art" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,50:2c5364,100:0f2027&height=120&section=footer"/>
+</div>
