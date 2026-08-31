@@ -28,8 +28,8 @@
 ### 🧬 About Me
 
 ```yaml
-role: AI/ML Backend Developer @ Ambrosial Nutrifood
-education: B.Tech IT, Class of 2026 (SGPA: 8.2)
+role: Graduate Trainee @ Ambrosial
+education: B.Tech IT, Class of 2026 (SGPA: 8.4)
 focus: LLM Apps · RAG Pipelines · Multi-Agent Systems
 currently_learning: Advanced RAG Architectures
 looking_to_collaborate: GenAI & LLM-powered applications
