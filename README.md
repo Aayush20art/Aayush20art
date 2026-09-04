@@ -1,26 +1,7 @@
 <div align="center">
 
-<!-- Animated gradient hero banner (backdrop only) -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:00d4ff&height=220&section=header" width="100%"/>
-
-<!-- Infinite color-shifting animated name -->
-<svg width="100%" height="150" viewBox="0 0 800 150" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="nameGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#00d4ff">
-        <animate attributeName="stop-color" values="#00d4ff;#8B5CF6;#39FF14;#00d4ff" dur="5s" repeatCount="indefinite"/>
-      </stop>
-      <stop offset="50%" stop-color="#8B5CF6">
-        <animate attributeName="stop-color" values="#8B5CF6;#39FF14;#00d4ff;#8B5CF6" dur="5s" repeatCount="indefinite"/>
-      </stop>
-      <stop offset="100%" stop-color="#39FF14">
-        <animate attributeName="stop-color" values="#39FF14;#00d4ff;#8B5CF6;#39FF14" dur="5s" repeatCount="indefinite"/>
-      </stop>
-    </linearGradient>
-  </defs>
-  <text x="50%" y="58%" text-anchor="middle" font-family="'Fira Code', monospace" font-size="46" font-weight="700" fill="url(#nameGrad)">AAYUSH SHARMA</text>
-  <text x="50%" y="82%" text-anchor="middle" font-family="'Fira Code', monospace" font-size="15" letter-spacing="2" fill="#8be9fd" fill-opacity="0.85">AI / ML ENGINEER — TURNING DATA INTO INTELLIGENCE</text>
-</svg>
+<!-- Animated gradient hero banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:00d4ff&height=280&section=header&text=AAYUSH%20SHARMA&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%2F%20ML%20ENGINEER%20%E2%80%94%20TURNING%20DATA%20INTO%20INTELLIGENCE&descAlignY=52&descSize=17&descColor=8be9fd" width="100%"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=23&duration=2800&pause=900&color=8BE9FD&center=true&vCenter=true&width=650&lines=Building+GenAI+%26+LLM-Powered+Systems+%F0%9F%A4%96;LangChain+%2B+LangGraph+%2B+RAG+%E2%9A%A1;From+Raw+Data+to+Real+Decisions+%F0%9F%93%88;Currently%3A+AI%2FML+Backend+Dev+%40+Ambrosial+%F0%9F%9A%80" alt="Typing SVG"/>
