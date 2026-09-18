@@ -28,14 +28,14 @@
 ### 🕸️ About Me
 
 ```yaml
-role:                  Graduate Trainee (AI/ML Backend Dev) @ Ambrosial Nutrifood
-education:             B.Tech IT, Class of 2026 · Chandigarh Engineering College
+role:                  Graduate Trainee (AI and Automation) @ Ambrosial
+education:             B.Tech IT, Batch 2022-2026 · Chandigarh Engineering College, Landran
 focus:                 LLM Apps · RAG Pipelines · Multi-Agent Systems
 currently_building:    HR & process automation tools (LangGraph + FastAPI)
 currently_learning:    Advanced RAG Architectures & Agentic Workflows
 looking_to_collab:     GenAI & LLM-powered applications
 looking_for_help:      Deploying ML/GenAI systems to production
-fun_fact:              "I debug code faster than I debug my own life"
+fun_fact:              "I debug code faster than I debug my own life 😁"
 ```
 
 📄 **IBM Data Analysis with Python** · **Infosys Springboard**
