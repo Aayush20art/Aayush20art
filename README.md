@@ -28,14 +28,14 @@
 ### 🕸️ About Me
 
 ```yaml
-role:                  Graduate Trainee (AI and Automation) @ Ambrosial
-education:             B.Tech IT, Batch 2022-2026 · Chandigarh Engineering College, Landran
+role:                  Graduate Trainee (AI/ML Backend Dev) @ Ambrosial Nutrifood
+education:             B.Tech IT, Class of 2026 · Chandigarh Engineering College
 focus:                 LLM Apps · RAG Pipelines · Multi-Agent Systems
 currently_building:    HR & process automation tools (LangGraph + FastAPI)
 currently_learning:    Advanced RAG Architectures & Agentic Workflows
 looking_to_collab:     GenAI & LLM-powered applications
 looking_for_help:      Deploying ML/GenAI systems to production
-fun_fact:              "I debug code faster than I debug my own life 😁"
+fun_fact:              "I debug code faster than I debug my own life"
 ```
 
 📄 **IBM Data Analysis with Python** · **Infosys Springboard**
@@ -91,21 +91,7 @@ fun_fact:              "I debug code faster than I debug my own life 😁"
 
 ### 📊 GitHub Analytics
 
-<img src="https://github-readme-stats.vercel.app/api?username=Aayush20art&show_icons=true&theme=dark&hide_border=true&bg_color=0D0000&title_color=A855F7&icon_color=ffffff&text_color=c9d1d9&ring_color=A855F7" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aayush20art&layout=compact&theme=dark&hide_border=true&bg_color=0D0000&title_color=A855F7&text_color=c9d1d9" width="41%"/>
-
-<br>
-
-<!-- ANIMATED AREA-CHART ACTIVITY GRAPH -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aayush20art&theme=github-compact&bg_color=0D0000&color=ffffff&line=A855F7&point=ffffff&area=true&hide_border=true" width="90%"/>
-
-<br>
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aayush20art&theme=dark&hide_border=true&background=0D0000&ring=A855F7&fire=ffffff&currStreakLabel=A855F7&sideLabels=c9d1d9&dates=8b949e" width="70%"/>
-
-<br><br>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Aayush20art&theme=dark&no-frame=true&no-bg=true&row=1&column=6" width="90%"/>
 
 </div>
 
