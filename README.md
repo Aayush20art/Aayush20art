@@ -1,8 +1,8 @@
 <div align="center">
 
 <!-- CUSTOM ANIMATED SPIDER-WEB HERO — two spiders on infinite loops (SMIL animation, real spider web geometry) -->
-<!-- IMPORTANT: this file lives at assets/spider-hero.svg in this repo — see note at bottom of README -->
-<img src="https://raw.githubusercontent.com/Aayush20art/Aayush20art/main/assets/spider-hero.svg" width="100%"/>
+<!-- points to hero.svg at the repo root, matching what's actually committed -->
+<img src="https://raw.githubusercontent.com/Aayush20art/Aayush20art/main/hero.svg" width="100%"/>
 
 <!-- INFINITE LOOPING TYPING ANIMATION -->
 <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=800&color=E23636&center=true&vCenter=true&width=750&repeat=true&background=00000000&lines=%3E+Building+GenAI+%26+LLM-Powered+Systems;%3E+LangChain+%2B+LangGraph+%2B+RAG+Pipelines;%3E+From+Raw+Data+to+Real+Decisions;%3E+Multi-Agent+%26+Autonomous+Systems;%3E+Currently%3A+AI%2FML+Backend+Dev+%40+Ambrosial" alt="Typing SVG"/>
