@@ -28,10 +28,9 @@
 ### 🕸️ About Me
 
 ```yaml
-role:                  Graduate Trainee (AI/ML Backend Dev) @ Ambrosial Nutrifood
+role:                  Graduate Trainee @Ambrosial
 education:             B.Tech IT, Class of 2026 · Chandigarh Engineering College
 focus:                 LLM Apps · RAG Pipelines · Multi-Agent Systems
-currently_building:    HR & process automation tools (LangGraph + FastAPI)
 currently_learning:    Advanced RAG Architectures & Agentic Workflows
 looking_to_collab:     GenAI & LLM-powered applications
 looking_for_help:      Deploying ML/GenAI systems to production
