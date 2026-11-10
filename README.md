@@ -169,13 +169,7 @@ LSTM-based next-word prediction model.
 
 ## 📊 GitHub Analytics
 
-<img src="https://github-readme-stats.vercel.app/api?username=Aayush20art&show_icons=true&hide_border=true&bg_color=0D0000&title_color=A855F7&icon_color=A855F7&text_color=c9d1d9&ring_color=A855F7&rank_icon=github" height="170"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aayush20art&layout=compact&hide_border=true&bg_color=0D0000&title_color=A855F7&text_color=c9d1d9&langs_count=6" height="170"/>
-
-<br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Aayush20art&theme=dark&hide_border=true&background=0D0000&ring=A855F7&fire=ffffff&currStreakLabel=A855F7&sideLabels=c9d1d9&dates=8b949e" width="70%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Aayush20art&theme=dark&hide_border=true&background=00000000&ring=A855F7&fire=ffffff&currStreakLabel=A855F7&sideLabels=c9d1d9&dates=8b949e" width="70%"/>
 
 </div>
 
