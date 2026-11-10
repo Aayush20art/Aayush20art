@@ -27,7 +27,7 @@
 <td valign="top" width="58%">
 
 ```yaml
-role:               Graduate Trainee (AI/ML Backend Developer) @ Ambrosial Nutrifood
+role:               Graduate Trainee @ Ambrosial
 education:          B.Tech Information Technology · Class of 2026
                     Chandigarh Engineering College, Landran
 focus:              LLM Applications · RAG Pipelines · Multi-Agent Systems
