@@ -4,7 +4,7 @@
 <img src="https://raw.githubusercontent.com/Aayush20art/Aayush20art/main/hero.svg" width="100%"/>
 
 <!-- NAME BANNER WITH FADE-IN -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:4c0080,100:000000&height=170&section=header&text=Aayush%20Sharma&fontSize=54&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=AI%20%2F%20ML%20Engineer%20%C2%B7%20GenAI%20%26%20LLM%20Systems&descSize=18&descColor=c4b5fd&descAlignY=60"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:4c0080,100:000000&height=170&section=header&text=Aayush%20Sharma&fontSize=54&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=AI%20ML%20Engineer%20-%20GenAI%20and%20LLM%20Systems&descSize=18&descColor=c4b5fd&descAlignY=60"/>
 
 <!-- TYPING ANIMATION -->
 <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=21&duration=2600&pause=900&color=A855F7&center=true&vCenter=true&width=780&repeat=true&background=00000000&lines=%3E+Building+GenAI+%26+LLM-Powered+Systems;%3E+LangChain+%2B+LangGraph+%2B+RAG+Pipelines;%3E+Multi-Agent+%26+Autonomous+Workflows;%3E+From+Raw+Data+to+Real+Decisions;%3E+Currently%3A+AI%2FML+Backend+Developer+%40+Ambrosial" alt="Typing SVG"/>
