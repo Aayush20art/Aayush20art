@@ -1,10 +1,10 @@
 <div align="center">
 
-<!-- ANIMATED SPIDER-WEB HERO (SMIL) -->
-<img src="https://raw.githubusercontent.com/Aayush20art/Aayush20art/main/hero.svg" width="100%"/>
+<!-- ANIMATED HACKER-TERMINAL HERO (SMIL) -->
+<img src="https://raw.githubusercontent.com/Aayush20art/Aayush20art/main/hero.svg" width="100%" alt="Aayush Sharma - AI/ML Engineer terminal banner"/>
 
 <!-- TYPING ANIMATION -->
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=21&duration=2600&pause=900&color=A855F7&center=true&vCenter=true&width=780&repeat=true&background=00000000&lines=%3E+Building+GenAI+%26+LLM-Powered+Systems;%3E+LangChain+%2B+LangGraph+%2B+RAG+Pipelines;%3E+Multi-Agent+%26+Autonomous+Workflows;%3E+From+Raw+Data+to+Real+Decisions;%3E+Currently%3A+AI%2FML+Backend+Developer+%40+Ambrosial" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=21&duration=2600&pause=900&color=A855F7&center=true&vCenter=true&width=780&repeat=true&background=00000000&lines=%24+building+GenAI+%26+LLM-Powered+Systems;%24+langchain+%2B+langgraph+%2B+rag+--pipelines;%24+run+multi-agent+--autonomous-workflows;%24+transform+raw_data+--to+real_decisions;%24+whoami+%3E+AI%2FML+Backend+Developer+%40+Ambrosial" alt="Typing SVG"/>
 
 <br>
 
@@ -20,7 +20,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:4c0080&height=3&section=header&width=100%"/>
 
-## 🕸️ About
+## `$ cat about.yml`
 
 <table align="center">
 <tr>
@@ -37,16 +37,16 @@ collaborate_on:     GenAI & LLM-powered applications
 seeking_guidance:   Deploying ML / GenAI systems to production
 ```
 
-🎓 **IBM** — Data Analysis with Python &nbsp;·&nbsp; **Infosys Springboard**
-📫 **aayushgamer702@gmail.com**
+**[cert]** IBM — Data Analysis with Python &nbsp;·&nbsp; Infosys Springboard
+**[mail]** aayushgamer702@gmail.com
 
 </td>
 <td valign="top" width="42%" align="center">
 
-### ⚡ Featured Build
+### `> featured_build`
 
 <a href="https://college-assistant-ei4i2rzqjfkdbyrodzftp8.streamlit.app/">
-<img src="https://img.shields.io/badge/🎓_College_Assistant_Chatbot-Live_Demo-000000?style=for-the-badge&logo=streamlit&logoColor=a855f7"/>
+<img src="https://img.shields.io/badge/College_Assistant_Chatbot-Live_Demo-000000?style=for-the-badge&logo=streamlit&logoColor=a855f7"/>
 </a>
 
 <br><br>
@@ -59,20 +59,20 @@ seeking_guidance:   Deploying ML / GenAI systems to production
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:4c0080,100:000000&height=3&section=header&width=100%"/>
 
-## 🚀 Selected Projects
+## `$ ls ./projects`
 
 <table align="center">
 <tr>
 <td width="50%" valign="top">
 
-**🎓 College Assistant Chatbot**
+**`[01]` College Assistant Chatbot**
 Deployed conversational assistant for college queries — live on Streamlit Cloud.
 `LangChain` `RAG` `Streamlit`
 
 </td>
 <td width="50%" valign="top">
 
-**🩺 MedoraAI**
+**`[02]` MedoraAI**
 Flagship healthcare prediction app with an interactive Streamlit interface.
 `Scikit-learn` `XGBoost` `Streamlit`
 
@@ -81,14 +81,14 @@ Flagship healthcare prediction app with an interactive Streamlit interface.
 <tr>
 <td width="50%" valign="top">
 
-**🏙️ AuraCity**
+**`[03]` AuraCity**
 City assistant built as a stateful, multi-step agent workflow.
 `LangGraph` `LLMs`
 
 </td>
 <td width="50%" valign="top">
 
-**✍️ Byline Desk**
+**`[04]` Byline Desk**
 LinkedIn post pipeline with a writer–reviewer agent loop and live web search.
 `LangGraph` `Mistral` `Gemini` `Tavily`
 
@@ -97,14 +97,14 @@ LinkedIn post pipeline with a writer–reviewer agent loop and live web search.
 <tr>
 <td width="50%" valign="top">
 
-**🔬 ResearchMind**
+**`[05]` ResearchMind**
 Multi-agent research pipeline that plans, gathers and synthesizes findings.
 `Multi-Agent` `LangGraph`
 
 </td>
 <td width="50%" valign="top">
 
-**📄 RAG PDF Assistant**
+**`[06]` RAG PDF Assistant**
 Document Q&A grounded in your own PDFs using semantic retrieval.
 `FAISS` `HuggingFace` `RAG`
 
@@ -113,14 +113,14 @@ Document Q&A grounded in your own PDFs using semantic retrieval.
 <tr>
 <td width="50%" valign="top">
 
-**🤖 Zeno AI**
+**`[07]` Zeno AI**
 Fast conversational agent with persistent session memory.
 `LangGraph` `Groq`
 
 </td>
 <td width="50%" valign="top">
 
-**🌸 WordBloom**
+**`[08]` WordBloom**
 LSTM-based next-word prediction model.
 `TensorFlow` `LSTM`
 
@@ -138,7 +138,7 @@ LSTM-based next-word prediction model.
 
 <div align="center">
 
-## 🛠️ Tech Arsenal
+## `$ ./tech_arsenal --list`
 
 **Languages & Core**
 
@@ -167,7 +167,7 @@ LSTM-based next-word prediction model.
 
 <div align="center">
 
-## 📊 GitHub Analytics
+## `$ git log --stats`
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aayush20art&theme=dark&hide_border=true&background=00000000&ring=A855F7&fire=ffffff&currStreakLabel=A855F7&sideLabels=c9d1d9&dates=8b949e" width="70%"/>
 
@@ -177,7 +177,7 @@ LSTM-based next-word prediction model.
 
 <div align="center">
 
-## 🐍 Contribution Graph
+## `$ ./contribution_graph --render`
 
 <img src="https://raw.githubusercontent.com/Aayush20art/Aayush20art/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
@@ -189,7 +189,7 @@ LSTM-based next-word prediction model.
 
 <div align="center">
 
-## 🌐 Let's Connect
+## `$ ssh connect@aayush`
 
 <a href="https://linkedin.com/in/aayush-sharma-b108a93b0" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0077B5"/>
