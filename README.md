@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ANIMATED HACKER-TERMINAL HERO (SMIL) -->
-<img src="https://raw.githubusercontent.com/Aayush20art/Aayush20art/main/here.svg" width="100%" alt="Aayush Sharma - AI/ML Engineer terminal banner"/>
+<img src="https://raw.githubusercontent.com/Aayush20art/Aayush20art/main/hero.svg" width="100%" alt="Aayush Sharma - AI/ML Engineer terminal banner"/>
 
 <!-- TYPING ANIMATION -->
 <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=21&duration=2600&pause=900&color=00FF41&center=true&vCenter=true&width=780&repeat=true&background=00000000&lines=%24+building+GenAI+%26+LLM-Powered+Systems;%24+langchain+%2B+langgraph+%2B+rag+--pipelines;%24+run+multi-agent+--autonomous-workflows;%24+transform+raw_data+--to+real_decisions;%24+whoami+%3E+AI%2FML+Backend+Developer+%40+Ambrosial" alt="Typing SVG"/>
